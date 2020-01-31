@@ -30,6 +30,7 @@ cd SNU_astro_open
 ## 설명
 
 * 폴더 [``applications/``](applications/): 사업계획서, 사업결과보고서
-* 폴더 [``minutes_surveys/``](minutes_surveys/): 공진단 및 TF 회의록, 설문지 분석 등
+* 폴더 [``gifts``](gifts/): 사용했던 기념품 및 행정설명
+* 폴더 [``lecture/``](lecture/): 사용했던 강의노트 (주강연, 보조강연) 및 보조강연 서식
+* 폴더 [``minutes_surveys/``](minutes_surveys/): 공진단회의록, TF 회의록, 설문지 등
 * 폴더 [``others/``](others/): 그 외 (천문학전공 소유 망원경 목록, 공지메일 아카이빙 등)
-* 폴더 [``lecture/``](lecture/): 사용했던 강의노트 등
